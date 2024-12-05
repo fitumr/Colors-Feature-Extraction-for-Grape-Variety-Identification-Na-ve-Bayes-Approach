@@ -1,0 +1,2 @@
+# Colors-Feature-Extraction-for-Grape-Variety-Identification-Na-ve-Bayes-Approach
+This research method employs Naïve Bayes classification combined with color feature extraction. Image processing includes resizing images to 200x200 pixels, Gamma Correction, Gaussian filtering, conversion to Lab* color space, K-Means Clustering for segmentation, followed by feature extraction and Naïve Bayes classification
